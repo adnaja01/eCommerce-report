@@ -40,5 +40,6 @@ CSV Input: Reads orders from a CSV file with columns: full_name, shirt_size, wit
 - Profit per shirt size
 
 Design Pattern: Strategy pattern for payment processing.
+
 Multi-threading: Used for report generation.
 
